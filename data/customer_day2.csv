@@ -1,0 +1,7 @@
+customer_id,customer_name,email,city,loyalty_tier,signup_date
+1001,Amit Sharma,amit.sharma@email.com,Gurgaon,Silver,2023-01-10
+1002,Neha Verma,neha.verma@email.com,Mumbai,Gold,2022-11-21
+1003,Rahul Gupta,rahul.gupta@email.com,Bangalore,Gold,2023-05-18
+1004,Priya Singh,priya.singh@email.com,Delhi,Bronze,2024-01-03
+1005,Karan Mehta,karan.mehta@email.com,Pune,Silver,2023-07-22
+1006,Sneha Kapoor,sneha.kapoor@email.com,Chandigarh,Bronze,2024-03-01
